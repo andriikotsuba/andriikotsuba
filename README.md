@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<pre>
 Hello😊😊😊
 I`m a self-motivated professional Developer with 8 𝙮𝙚𝙖𝙧𝙨 𝙤𝙛 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚.
 I’m here to assist my clients in building top-notch web platforms, enabling them to create outstanding solutions . My extensive knowledge in React, React Native, Next.js, Node.js (including Nest.js and Express) allows me to specialize in crafting exceptional web applications that provide superior user experiences.
@@ -54,4 +55,4 @@ I’m here to assist my clients in building top-notch web platforms, enabling th
 🥇 Even if you possess limited technical knowledge, rest assured that I will provide clear explanations and guidance throughout the development journey. My objective is to empower you and ensure that you possess a profound understanding of the app's functionalities and the technologies involved.
 
 🥇 Time is of the essence, and I understand your desire to obtain top-quality code within the shortest possible timeframe.![Uploading image.png…]()
-
+</pre>
